@@ -5,12 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+Publications
+======
+Polotical Economic Analysis of Stablizing Empolyment, with Xiaonan Qiao, Xuege Han and Xin Li, Nankai Economic Studies, 2024(09).
 
-{% include base_path %}
+Working Paper
+======
+M.A. Economics, School of Economics, Nankai University, 2023-present
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+B.A. Economics, School of Economics, Nankai University, 2019-2023
+
+Biography
+======
+You can find my CV [here](../assets/个人简历.pdf)
