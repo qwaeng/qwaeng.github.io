@@ -1,22 +1,22 @@
 ---
 permalink: /
-title: "欢迎来到瞿王城的个人主页"
+title: "Welcome to Wangcheng Qu's personal website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-个人简介
+Personal Profile
 ======
-瞿王城，南开大学经济学院硕士研究生，研究领域为数理政治经济学及其经验研究和马克思主义政治经济学，关注的领域包括技术选择问题、不平等交换、空间政治经济学和数字资本主义等，致力于用现代分析工具和政治经济学基本原理分析中国现实问题。
+Wangcheng Qu, a master's degree student at the School of Economics, Nankai University. His research fields are mathematical political economy and empirical study, focusing on areas such as the choice of technique, digital capitalism, resources allocation, spatial political economy, etc. He is committed to analyzing the reality of China by using the modern analytical tools and the basic principles of political economy.
 
-教育背景
+Educational Background
 ======
-经济学硕士，南开大学经济系，2023-至今
+M.A. Economics, School of Economics, Nankai University, 2023-present
 
-经济学学士，南开大学经济系，2019-2023
+B.A. Economics, School of Economics, Nankai University, 2019-2023
 
-个人简历
+Biography
 ======
-个人简历可点击[这里](../assets/个人简历.pdf)
+You can find my CV [here](../assets/个人简历.pdf)
