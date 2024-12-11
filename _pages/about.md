@@ -19,4 +19,4 @@ B.A. Economics, School of Economics, Nankai University, 2019-2023
 
 Biography
 ======
-You can find my CV [here](../assets/个人简历.pdf)
+You can find my CV [here](../assets/CV.pdf)
