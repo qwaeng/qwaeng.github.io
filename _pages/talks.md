@@ -8,14 +8,14 @@ author_profile: true
 Talks
 ======
 
-*The 72nd Annual Conference of the JSPE*, Tokyo, Japan, 2024.09
+**The 72nd Annual Conference of the JSPE**, Tokyo, Japan, 2024.09
 
 Data Ownership, Data Sharing and Data Transaction: A Two-sided Market Model Based on Commercial Platform
 
-*Nankai Forum of Marxist Political Economy*, Tianjin, China, 2023.11
+**Nankai Forum of Marxist Political Economy**, Tianjin, China, 2023.11
 
 Industrial Production Concentration and Common Prosperity: A Study Based on Political Economy
 
-*The 2nd Forum of Young Scholars on Political Economy*, Shanxi, China, 2023.07
+**The 2nd Forum of Young Scholars on Political Economy**, Shanxi, China, 2023.07
 
 Comparative Analysis of Micro and Macro Data in the View of Political Economy —— Using the Calculation of Organic Composition of Capital as an Example
