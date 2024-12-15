@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Talks
+Conferences
 ======
 
 **The 72nd Annual Conference of the JSPE**, Tokyo, Japan, 2024.09
