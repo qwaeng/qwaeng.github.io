@@ -10,7 +10,7 @@ Talks
 
 **The 72nd Annual Conference of the JSPE**, Tokyo, Japan, 2024.09
 
-Data Ownership, Data Sharing and Data Transaction: A Two-sided Market Model Based on Commercial Platform
+Data Ownership, Data Sharing and Data Transaction: A Two-sided Market Model Based on Commercial Platform ([PDF](../assets/2024JSPE_Data_Ownership.pdf))
 
 **Nankai Forum of Marxist Political Economy**, Tianjin, China, 2023.11
 
