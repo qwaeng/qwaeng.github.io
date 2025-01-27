@@ -11,17 +11,17 @@ Publications
 
 * *南开经济研究*, 2024(09).
 
-Commercial Digital Platform Rent, Antitrust Regulation and Personal Consumption Data Ownership, with Xiaonan Qiao and Tianyi Feng (in Chinese)
+**Commercial Digital Platform Rent, Antitrust Regulation and Personal Consumption Data Ownership**, with Xiaonan Qiao and Tianyi Feng (in Chinese)
 
-*China Industrial Economics*, 2024(06). ([PDF](../assets/Commercial.pdf))
+* *中国工业经济*, 2024(06). ([PDF](../assets/Commercial.pdf))
 
-Industrial Production Concentration and Common Prosperoty, with Xiaonan Qiao (in Chinese)
+**Industrial Production Concentration and Common Prosperoty**, with Xiaonan Qiao (in Chinese)
 
-*China Review of Political Economy*, 2024(03). ([PDF](../assets/Concentration.pdf))
+* *政治经济学评论*, 2024(03). ([PDF](../assets/Concentration.pdf))
 
-Urban Sprawl and the Scale of LGFV Bonds: A Perspective of Spatial Political Economy (in Chinese)
+**Urban Sprawl and the Scale of LGFV Bonds: A Perspective of Spatial Political Economy**, with Xiaonan Qiao and Wenjin Zhang (in Chinese)
 
-*Finacial Market Research*, 2023(09).
+* *金融市场研究*, 2023(09).
 
 Working Paper
 ======
