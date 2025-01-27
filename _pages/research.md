@@ -5,6 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+body {
+text-align: justify;}
+li {
+  font-size: 14px;
+}
+</style>
+
 Publications
 ======
 **Polotical Economic Analysis of Stablizing Empolyment**, with Xiaonan Qiao, Xuege Han and Xin Li (in Chinese)
