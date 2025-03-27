@@ -7,26 +7,30 @@ author_profile: true
 
 Publications
 ======
-**Polotical Economic Analysis of Stablizing Empolyment**, with Xiaonan Qiao, Xuege Han and Xin Li (in Chinese)
+**人与自然和谐共生的政治经济学分析**，乔晓楠，瞿王城
+
+* *政治经济学季刊*，网络首发
+
+**稳就业的政治经济学分析**, 乔晓楠，韩雪歌，李欣，瞿王城
 
 * *南开经济研究*, 2024(09).
 
-**Commercial Digital Platform Rent, Antitrust Regulation and Personal Consumption Data Ownership**, with Xiaonan Qiao and Tianyi Feng (in Chinese)
+**商业数字平台租金、垄断规制与个人消费数据确权**, 乔晓楠，冯天异，瞿王城
 
 * *中国工业经济*, 2024(06). ([PDF](../assets/Commercial.pdf))
 
-**Industrial Production Concentration and Common Prosperoty**, with Xiaonan Qiao (in Chinese)
+**工业生产集中与共同富裕**, 乔晓楠，瞿王城
 
 * *政治经济学评论*, 2024(03). ([PDF](../assets/Concentration.pdf))
 
-**Urban Sprawl and the Scale of LGFV Bonds: A Perspective of Spatial Political Economy**, with Xiaonan Qiao and Wenjin Zhang (in Chinese)
+**城市蔓延与城投债规模**, 乔晓楠，张文劲，瞿王城
 
 * *金融市场研究*, 2023(09).
 
 Working Paper
 ======
-A Mathematical Political Economy Study of Harmonious Coexistence between Humans and Nature, with Xiaonan Qiao
+培育发展绿色生产力的理论逻辑与实践成就，乔晓楠，瞿王城
 
 Data Ownership, Data Sharing and Data Transactions, with Xiaonan Qiao and Tianyi Feng
 
-Comparative Analysis of Micro and Macro Data in the View of Political Economy, with Xiaonan Qiao, Wenjin Zhang and Xin Li
+政治经济学视域下宏观数据与微观数据的比较分析, 乔晓楠，瞿王城，张文劲，李欣
