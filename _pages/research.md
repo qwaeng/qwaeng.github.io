@@ -5,9 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-## Publications
-======
----
+# Publications
+
+-----------------------------------------------------------------------------
+
 **人与自然和谐共生的政治经济学分析**，乔晓楠，瞿王城
 
 * *政治经济学季刊*，网络首发
@@ -28,9 +29,10 @@ author_profile: true
 
 * *金融市场研究*, 2023(09).
 
-## Working Paper
-======
----
+# Working Paper
+
+-----------------------------------------------------------------------------
+
 培育发展绿色生产力的理论逻辑与实践成就，乔晓楠，瞿王城
 
 Data Ownership, Data Sharing and Data Transactions, with Xiaonan Qiao and Tianyi Feng
