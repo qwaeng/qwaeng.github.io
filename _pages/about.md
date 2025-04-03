@@ -9,7 +9,10 @@ redirect_from:
 
 # Personal Profile
 
+<p style="text-align:justify; text-justify:inter-ideograph;">
 I'm a master student at the School of Economics, Nankai University. My research fields are mathematical Marxian economics and empirical study. In theoretical research, I focus on areas such as global production networks, digital capitalism, income distribution, etc. In empirical research, I try to advance the combination of macro and micro data in the empirical approach to linear production models. I am committed to analyzing the reality of China by using the modern analytical tools and the basic principles of Marxian economics.
+</p>
+
 
 # Educational Background
 
