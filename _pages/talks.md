@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Conferences
-======
 
 **The 72nd Annual Conference of the JSPE**, Tokyo, Japan, 2024.09
 
