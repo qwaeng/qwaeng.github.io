@@ -1,0 +1,97 @@
+# Publications and working papers, newest first.
+# "Wangcheng Qu" / "瞿王城" is highlighted automatically in the author lists.
+
+publications:
+  - title:
+      en: A Political Economy Analysis of the Harmonious Coexistence of Humanity and Nature
+      zh: 人与自然和谐共生的政治经济学分析
+    authors:
+      en: Xiaonan Qiao, Wangcheng Qu
+      zh: 乔晓楠，瞿王城
+    venue:
+      en: Political Economy Quarterly
+      zh: 政治经济学季刊
+    year:
+      en: Online first
+      zh: 网络首发
+    links: []
+
+  - title:
+      en: A Political Economy Analysis of Stabilizing Employment
+      zh: 稳就业的政治经济学分析
+    authors:
+      en: Xiaonan Qiao, Xuege Han, Xin Li, Wangcheng Qu
+      zh: 乔晓楠，韩雪歌，李欣，瞿王城
+    venue:
+      en: Nankai Economic Studies
+      zh: 南开经济研究
+    year:
+      en: 2024(09)
+      zh: 2024(09)
+    links: []
+
+  - title:
+      en: Commercial Digital Platform Rent, Monopoly Regulation and the Ownership of Personal Consumption Data
+      zh: 商业数字平台租金、垄断规制与个人消费数据确权
+    authors:
+      en: Xiaonan Qiao, Tianyi Feng, Wangcheng Qu
+      zh: 乔晓楠，冯天异，瞿王城
+    venue:
+      en: China Industrial Economics
+      zh: 中国工业经济
+    year:
+      en: 2024(06)
+      zh: 2024(06)
+    links:
+      - label: PDF
+        url: /assets/Commercial.pdf
+
+  - title:
+      en: Industrial Production Concentration and Common Prosperity
+      zh: 工业生产集中与共同富裕
+    authors:
+      en: Xiaonan Qiao, Wangcheng Qu
+      zh: 乔晓楠，瞿王城
+    venue:
+      en: China Review of Political Economy
+      zh: 政治经济学评论
+    year:
+      en: 2024(03)
+      zh: 2024(03)
+    links:
+      - label: PDF
+        url: /assets/Concentration.pdf
+
+  - title:
+      en: Urban Sprawl and the Scale of Local Government Financing Vehicle Bonds
+      zh: 城市蔓延与城投债规模
+    authors:
+      en: Xiaonan Qiao, Wenjin Zhang, Wangcheng Qu
+      zh: 乔晓楠，张文劲，瞿王城
+    venue:
+      en: Financial Market Research
+      zh: 金融市场研究
+    year:
+      en: 2023(09)
+      zh: 2023(09)
+    links: []
+
+working_papers:
+  - title:
+      en: "Data Ownership, Data Sharing and Data Transactions: A Two-sided Market Model Based on Commercial Platforms"
+      zh: 数据所有权、数据共享与数据交易：基于商业平台的双边市场模型
+    authors:
+      en: Xiaonan Qiao, Tianyi Feng, Wangcheng Qu
+      zh: 乔晓楠，冯天异，瞿王城
+  - title:
+      en: The Theoretical Logic and Practical Achievements of Cultivating Green Productive Forces
+      zh: 培育发展绿色生产力的理论逻辑与实践成就
+    authors:
+      en: Xiaonan Qiao, Wangcheng Qu
+      zh: 乔晓楠，瞿王城
+  - title:
+      en: A Comparative Analysis of Macro and Micro Data from the Perspective of Political Economy
+      zh: 政治经济学视域下宏观数据与微观数据的比较分析
+    authors:
+      en: Xiaonan Qiao, Wangcheng Qu, Wenjin Zhang, Xin Li
+      zh: 乔晓楠，瞿王城，张文劲，李欣

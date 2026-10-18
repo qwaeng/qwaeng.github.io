@@ -1,0 +1,63 @@
+# Personal information. Every text field has an English (en) and Chinese (zh) version.
+
+name:
+  en: Wangcheng Qu
+  zh: 瞿王城
+monogram: 瞿           # shown when no photo is set
+photo:                 # e.g. /images/profile.jpg — leave empty to show the monogram
+
+role:
+  en: Master's student, School of Economics, Nankai University
+  zh: 南开大学经济学院 硕士研究生
+location:
+  en: Tianjin, China
+  zh: 中国 · 天津
+
+email: qwaeng@163.com
+cv: /assets/CV.pdf
+google_scholar:        # URL, optional
+orcid:                 # URL, optional
+github: https://github.com/qwaeng
+
+bio:
+  en: >-
+    I am a master's student at the School of Economics, Nankai University. My research lies in
+    mathematical Marxian economics and its empirical applications. On the theoretical side, I work on
+    global production networks, digital capitalism and income distribution. On the empirical side, I
+    try to combine macro and micro data in the estimation of linear production models. I am committed
+    to analysing the reality of China with modern analytical tools and the basic principles of Marxian
+    economics.
+  zh: >-
+    南开大学经济学院硕士研究生，研究方向为数理马克思主义经济学与经验研究。理论研究方面，主要关注全球生产网络、
+    数字资本主义、收入分配等问题；经验研究方面，致力于在线性生产模型的实证方法中推进宏观数据与微观数据的结合。
+    希望运用现代分析工具与马克思主义政治经济学基本原理，分析和解释中国现实。
+
+interests:
+  - en: Mathematical Marxian economics
+    zh: 数理马克思主义经济学
+  - en: Global production networks
+    zh: 全球生产网络
+  - en: Digital capitalism
+    zh: 数字资本主义
+  - en: Income distribution
+    zh: 收入分配
+  - en: Linear production models
+    zh: 线性生产模型
+
+education:
+  - degree:
+      en: M.A. in Economics
+      zh: 经济学硕士
+    school:
+      en: School of Economics, Nankai University
+      zh: 南开大学经济学院
+    years: 2023 – present
+  - degree:
+      en: B.A. in Economics
+      zh: 经济学学士
+    school:
+      en: School of Economics, Nankai University
+      zh: 南开大学经济学院
+    years: 2019 – 2023
+
+updated: 2026-10

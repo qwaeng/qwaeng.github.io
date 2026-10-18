@@ -1,0 +1,39 @@
+# Conference presentations, newest first.
+
+- date: 2024.09
+  event:
+    en: The 72nd Annual Conference of the Japan Society of Political Economy (JSPE)
+    zh: 日本经济理论学会（JSPE）第72届年会
+  place:
+    en: Tokyo, Japan
+    zh: 日本 · 东京
+  title:
+    en: "Data Ownership, Data Sharing and Data Transaction: A Two-sided Market Model Based on Commercial Platforms"
+    zh: 数据所有权、数据共享与数据交易：基于商业平台的双边市场模型
+  links:
+    - label: Slides
+      url: /assets/2024JSPE_Data_Ownership.pdf
+
+- date: 2023.11
+  event:
+    en: Nankai Forum of Marxist Political Economy
+    zh: 南开马克思主义政治经济学论坛
+  place:
+    en: Tianjin, China
+    zh: 中国 · 天津
+  title:
+    en: "Industrial Production Concentration and Common Prosperity: A Study Based on Political Economy"
+    zh: 工业生产集中与共同富裕：基于政治经济学的研究
+  links: []
+
+- date: 2023.07
+  event:
+    en: The 2nd Forum of Young Scholars on Political Economy
+    zh: 第二届政治经济学青年学者论坛
+  place:
+    en: Shanxi, China
+    zh: 中国 · 山西
+  title:
+    en: "Comparative Analysis of Micro and Macro Data in the View of Political Economy: Using the Calculation of the Organic Composition of Capital as an Example"
+    zh: 政治经济学视域下微观数据与宏观数据的比较分析——以资本有机构成的测算为例
+  links: []

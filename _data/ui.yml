@@ -1,0 +1,33 @@
+# Interface labels
+en:
+  about: About
+  research: Research
+  publications: Publications
+  working_papers: Working Papers
+  talks: Talks
+  education: Education
+  interests: Research Interests
+  contact: Contact
+  email: Email
+  cv: CV
+  switch: 中文
+  switch_title: 切换到中文
+  theme: Toggle dark mode
+  updated: Last updated
+  author_me: Wangcheng Qu
+zh:
+  about: 简介
+  research: 研究
+  publications: 发表论文
+  working_papers: 工作论文
+  talks: 学术报告
+  education: 教育经历
+  interests: 研究兴趣
+  contact: 联系方式
+  email: 邮箱
+  cv: 简历
+  switch: EN
+  switch_title: Switch to English
+  theme: 切换深色模式
+  updated: 最近更新
+  author_me: 瞿王城
