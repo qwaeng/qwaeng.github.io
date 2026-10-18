@@ -1,33 +1,51 @@
 # Interface labels
 en:
-  about: About
+  home: About
   research: Research
+  talks: Conferences
+  blog: Blog
   publications: Publications
   working_papers: Working Papers
-  talks: Talks
   education: Education
   interests: Research Interests
   contact: Contact
+  selected: Recent Publications
+  all_research: All research
+  research_intro: Journal articles and working papers. Papers are listed in the language in which they were written.
+  talks_intro: Presentations at academic conferences and forums.
+  blog_intro: Notes and essays.
+  blog_empty: No posts yet. Check back soon.
+  lang_zh: In Chinese
+  lang_en: In English
   email: Email
   cv: CV
   switch: 中文
   switch_title: 切换到中文
   theme: Toggle dark mode
   updated: Last updated
-  author_me: Wangcheng Qu
+  title_suffix: Homepage
 zh:
-  about: 简介
-  research: 研究
+  home: 简介
+  research: 学术研究
+  talks: 会议报告
+  blog: 个人博客
   publications: 发表论文
   working_papers: 工作论文
-  talks: 学术报告
   education: 教育经历
   interests: 研究兴趣
   contact: 联系方式
+  selected: 近期发表
+  all_research: 全部研究
+  research_intro: 期刊论文与工作论文，按论文的写作语言列出。
+  talks_intro: 在学术会议与论坛上的报告。
+  blog_intro: 随笔与札记。
+  blog_empty: 暂无文章，敬请期待。
+  lang_zh: 中文
+  lang_en: 英文
   email: 邮箱
   cv: 简历
   switch: EN
   switch_title: Switch to English
   theme: 切换深色模式
   updated: 最近更新
-  author_me: 瞿王城
+  title_suffix: 个人主页

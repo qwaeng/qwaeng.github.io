@@ -1,0 +1,22 @@
+{%- comment -%}
+  Renders one paper. Expects include.x (the entry), include.meta (left column text).
+  Paper text is shown in its own language; the author's name is highlighted in either script.
+{%- endcomment -%}
+{%- assign x = include.x -%}
+{%- assign t = site.data.ui[page.lang] -%}
+<li class="item">
+  <span class="meta">{{ include.meta }}</span>
+  <div{% if x.language == "zh" %} lang="zh-CN"{% elsif x.language == "en" %} lang="en"{% endif %}>
+    <p class="title">{{ x.title }}</p>
+    <p class="sub">{{ x.authors | replace: "瞿王城", "<strong>瞿王城</strong>" | replace: "Wangcheng Qu", "<strong>Wangcheng Qu</strong>" }}</p>
+    {%- if x.venue %}
+    <p class="venue">{{ x.venue }}</p>
+    {%- endif %}
+    {%- if x.links.size > 0 or x.language != page.lang %}
+    <p class="tags">
+      {%- if x.language != page.lang %}<span class="lang-tag" lang="{{ page.lang }}">{% if x.language == "zh" %}{{ t.lang_zh }}{% else %}{{ t.lang_en }}{% endif %}</span>{% endif -%}
+      {%- for l in x.links %}<a href="{{ l.url | relative_url }}">{{ l.label }}</a>{% endfor -%}
+    </p>
+    {%- endif %}
+  </div>
+</li>

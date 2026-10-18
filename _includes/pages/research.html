@@ -1,0 +1,23 @@
+{%- assign t = site.data.ui[page.lang] -%}
+<header class="page-head intro">
+  <h1 class="page-title">{{ t.research }}</h1>
+  <p class="page-intro">{{ t.research_intro }}</p>
+</header>
+
+<section class="block reveal">
+  <h2 class="label">{{ t.publications }}</h2>
+  <ol class="list">
+    {%- for x in site.data.research.publications %}
+    {% include paper.html x=x meta=x.year %}
+    {%- endfor %}
+  </ol>
+</section>
+
+<section class="block reveal">
+  <h2 class="label">{{ t.working_papers }}</h2>
+  <ol class="list">
+    {%- for x in site.data.research.working_papers %}
+    {% include paper.html x=x meta="WP" %}
+    {%- endfor %}
+  </ol>
+</section>

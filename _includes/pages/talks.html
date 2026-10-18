@@ -1,0 +1,25 @@
+{%- assign lang = page.lang -%}
+{%- assign t = site.data.ui[lang] -%}
+<header class="page-head intro">
+  <h1 class="page-title">{{ t.talks }}</h1>
+  <p class="page-intro">{{ t.talks_intro }}</p>
+</header>
+
+<section class="block reveal">
+  <h2 class="label">{{ t.talks }}</h2>
+  <ol class="list">
+    {%- for x in site.data.talks %}
+    <li class="item">
+      <span class="meta">{{ x.date }}</span>
+      <div>
+        <p class="title">{{ x.title[lang] }}</p>
+        <p class="sub">{{ x.event[lang] }}</p>
+        <p class="place">{{ x.place[lang] }}</p>
+        {%- if x.links.size > 0 %}
+        <p class="tags">{% for l in x.links %}<a href="{{ l.url | relative_url }}">{{ l.label }}</a>{% endfor %}</p>
+        {%- endif %}
+      </div>
+    </li>
+    {%- endfor %}
+  </ol>
+</section>

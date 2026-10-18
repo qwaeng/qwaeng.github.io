@@ -14,3 +14,14 @@ exclude:
   - LICENSE
   - vendor
   - .bundle
+
+# Blog posts: put Markdown files in _posts/ named YYYY-MM-DD-title.md.
+# Add `lang: zh` or `lang: en` to show a post on only one language version.
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: post
+      nav: blog
+      lang: en
+permalink: /blog/:year/:title/

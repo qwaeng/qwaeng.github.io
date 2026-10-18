@@ -1,0 +1,30 @@
+{%- assign lang = page.lang -%}
+{%- assign t = site.data.ui[lang] -%}
+{%- comment -%} Posts live in _posts/. A post with `lang: en` or `lang: zh` shows only on that version; without `lang` it shows on both. {%- endcomment -%}
+{%- assign posts = "" | split: "" -%}
+{%- for post in site.posts -%}
+  {%- if post.lang == nil or post.lang == lang %}{% assign posts = posts | push: post %}{% endif -%}
+{%- endfor -%}
+<header class="page-head intro">
+  <h1 class="page-title">{{ t.blog }}</h1>
+  <p class="page-intro">{{ t.blog_intro }}</p>
+</header>
+
+<section class="block reveal">
+  <h2 class="label">{{ t.blog }}</h2>
+  {%- if posts.size > 0 %}
+  <ol class="list">
+    {%- for post in posts %}
+    <li class="item">
+      <span class="meta">{{ post.date | date: "%Y.%m.%d" }}</span>
+      <div>
+        <p class="title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></p>
+        {%- if post.excerpt %}<p class="sub">{{ post.excerpt | strip_html | truncate: 140 }}</p>{% endif %}
+      </div>
+    </li>
+    {%- endfor %}
+  </ol>
+  {%- else %}
+  <p class="empty">{{ t.blog_empty }}</p>
+  {%- endif %}
+</section>

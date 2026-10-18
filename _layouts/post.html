@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{%- assign t = site.data.ui[page.lang] -%}
+{%- if page.lang == "zh" %}{% assign base = "/zh" %}{% else %}{% assign base = "" %}{% endif -%}
+<article class="post">
+  <header class="page-head intro">
+    <p class="eyebrow"><a href="{{ base | append: '/blog/' | relative_url }}">← {{ t.blog }}</a> · {{ page.date | date: "%Y.%m.%d" }}</p>
+    <h1 class="page-title">{{ page.title }}</h1>
+  </header>
+  <div class="prose reveal">
+    {{ content }}
+  </div>
+</article>
