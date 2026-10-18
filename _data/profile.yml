@@ -7,8 +7,8 @@ monogram: 瞿           # shown when no photo is set
 photo:                 # e.g. /images/profile.jpg — leave empty to show the monogram
 
 role:
-  en: PhD student, School of Economics and Management, Tohoku University
-  zh: 東北大学经济管理学院 博士研究生
+  en: PhD student, Graduate School of Economics and Management, Tohoku University
+  zh: 東北大学経済学研究科 博士研究生
 location:
   en: Sendai, Japan
   zh: 日本 · 仙台
@@ -47,7 +47,7 @@ education:
       zh: 经济学博士
     school:
       en: School of Economics and Management, Tohoku University
-      zh: 東北大学经济管理学院
+      zh: 東北大学経済学研究科
     years: 2026 – 
   - degree:
       en: M.A. in Economics
