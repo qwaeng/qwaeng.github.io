@@ -6,6 +6,13 @@
 
 publications:
   - language: zh
+    title: 培育发展绿色生产力的理论逻辑与实践成就——学习《习近平经济文选》第一卷
+    authors: 乔晓楠，瞿王城
+    venue: 中国经济问题
+    year: 2026(05)
+    links: []
+  
+  - language: zh
     title: 人与自然和谐共生的数理政治经济学研究
     authors: 乔晓楠，瞿王城
     venue: 政治经济学季刊
@@ -53,11 +60,6 @@ working_papers:
   - language: en
     title: "Data Ownership, Data Sharing and Data Transactions: A Two-sided Market Model Based on Commercial Platforms"
     authors: Xiaonan Qiao, Tianyi Feng, Wangcheng Qu
-    links: []
-
-  - language: zh
-    title: 培育发展绿色生产力的理论逻辑与实践成就
-    authors: 乔晓楠，瞿王城
     links: []
 
   - language: zh
